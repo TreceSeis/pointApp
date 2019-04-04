@@ -35,11 +35,11 @@ class Vehicles extends Component {
               "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/soul_2020/Componente-Soul-LX.png",
 
             features: [
-              "6 bolsas de aire",
-              "rines de aleación",
-              "pantalla de audio",
-              "camara",
-              "toma de usb"
+              "6 air bags",
+              '16" alloy wheels',
+              'Audio screen with 7 "color and Apple CarPlay connectivity and Android Auto',
+              "Reverse camera with dynamic guides",
+              "Front and rear USB socket"
             ]
           },
           {
@@ -49,11 +49,11 @@ class Vehicles extends Component {
               "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/soul_2020/Componente-Sou-EX.png",
 
             features: [
-              "7 bolsas de aire",
-              "rines de aleación",
-              "pantalla de audio",
-              "camara",
-              "toma de usb"
+              "Projection type headlights",
+              "Ambient lights with 8 tones and 6 themes to choose",
+              '17" alloy wheels',
+              "Charger with wireless induction for smartphones",
+              "Two tone exterior colors"
             ]
           },
           {
@@ -63,11 +63,12 @@ class Vehicles extends Component {
               "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/soul_2020/Componente-Soul-EX-Pack.png",
 
             features: [
-              "8 bolsas de aire",
-              "rines de aleación",
-              "pantalla de audio",
-              "camara",
-              "toma de usb"
+              "Lined leather seats",
+              "Full LED headlights",
+              "Electric adjustment of front seats",
+              "HUD (Head-up Display)",
+              '18" alloy wheels',
+              "Sunroof"
             ]
           }
         ]
@@ -98,11 +99,11 @@ class Vehicles extends Component {
               "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/niro/2018_B/Trim_List/Componente-niro-lx.png",
 
             features: [
-              "6 bolsas de aire",
-              "rines de aleación",
-              "pantalla de audio",
+              "Motor 1.6L Hybrid",
+              '7" screen with Android Auto® and Apple Car Play® connectivity',
+              "Reverse camera",
               "camara",
-              "toma de usb"
+              "7 airbags"
             ]
           },
           {
@@ -112,11 +113,10 @@ class Vehicles extends Component {
               "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/niro/2018_B/Trim_List/Componente-niro-ex.png",
 
             features: [
-              "7 bolsas de aire",
-              "rines de aleación",
-              "pantalla de audio",
-              "camara",
-              "toma de usb"
+              "Leather-covered seats",
+              '18" sport wheels',
+              "Blind spot detection system and cross traffic alert",
+              "Wireless charger for Smartphone"
             ]
           }
         ]
@@ -147,11 +147,11 @@ class Vehicles extends Component {
               "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/new_sportage/2019/Componente-LX_PearlBlack.png",
 
             features: [
-              "6 bolsas de aire",
-              "rines de aleación",
-              "pantalla de audio",
-              "camara",
-              "toma de usb"
+              "6 air bags",
+              '7" touch screen with Android Auto ® and Apple Carplay ®',
+              "Manual air conditioning with rear air outlet",
+              "Normal / Sport Drive",
+              "Rear sensors"
             ]
           },
           {
@@ -161,11 +161,12 @@ class Vehicles extends Component {
               "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/new_sportage/2019/Componente-EX_CoolSIlver.png",
 
             features: [
-              "7 bolsas de aire",
-              "rines de aleación",
-              "pantalla de audio",
-              "camara",
-              "toma de usb"
+              "6 air bags",
+              '7" touch screen with Android Auto ® and Apple Carplay ®',
+              "Normal / Sport Drive",
+              "Rear sensors",
+              "Reverse camera",
+              '17" sport wheels'
             ]
           },
           {
@@ -175,11 +176,12 @@ class Vehicles extends Component {
               "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/new_sportage/2019/Componente-EX_Pack_DarkGray.png",
 
             features: [
-              "8 bolsas de aire",
-              "rines de aleación",
-              "pantalla de audio",
-              "camara",
-              "toma de usb"
+              "6 air bags",
+              '7" touch screen with Android Auto ® and Apple Carplay ®',
+              "Normal / Sport Drive",
+              "Smart trunk",
+              "Reverse camera",
+              '17" sport wheels'
             ]
           },
           {
@@ -189,11 +191,16 @@ class Vehicles extends Component {
               "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/new_sportage/2019/Componente-SXL_AWD_SparkingSilver.png",
 
             features: [
-              "8 bolsas de aire",
-              "rines de aleación",
-              "pantalla de audio",
-              "camara",
-              "toma de usb"
+              "6 air bags",
+              'Touch screen 8" with Android Auto ® and Apple Carplay ®',
+              "Wireless charger",
+              "Normal / Sport / ECO Drive",
+              "Rain sensors",
+              "Front and rear sensors",
+              "Lane maintenance system",
+              "Cross traffic alert",
+              "Reverse camera",
+              '19" sport wheels'
             ]
           }
         ]
