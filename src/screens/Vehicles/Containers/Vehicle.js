@@ -10,6 +10,7 @@ import {
 import Icon from "react-native-vector-icons/FontAwesome";
 
 import SegmentedControlTab from "react-native-segmented-control-tab";
+import Specs from "../Components/Specs";
 import Versions from "../Components/Versions";
 
 const formatter = new Intl.NumberFormat("en-US", {
@@ -103,9 +104,7 @@ class Vehicle extends Component {
             />
           </View>
         )}
-        {customStyleIndex === 1 && (
-          <Text style={styles.tabContent}> Tab two</Text>
-        )}
+        {customStyleIndex === 1 && <Specs item={item} />}
         {customStyleIndex === 2 && <Versions item={item} />}
       </View>
     );

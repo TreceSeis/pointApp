@@ -21,12 +21,12 @@ class Vehicles extends Component {
         gallery:
           "https://www.kia.com/us/k3/content/media/mediabin/vehicle/gallery/CMS/vehicles/soul/2020/gallery/exterior/gallery_soul_2020_exterior_9--kia-1280x-jpg.jpg",
         cylinders: 4,
-        maxPower: 256,
-        transmissionType: "Automatic",
+        maxPower: 147,
+        transmissionType: "Intelligent Variable Transmission (IVT)",
         doors: 4,
-        feCity: 12,
-        feHwy: 10,
-        feMixed: 11,
+        feCity: 27,
+        feHwy: 33,
+        feCombined: 30,
         versions: [
           {
             id: 0,
@@ -85,12 +85,12 @@ class Vehicles extends Component {
         gallery:
           "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/new_sportage/2019/Galeria/EXT/Detail_images/desktop/galeia_exterior_kia_sportage_w_6.jpg",
         cylinders: 4,
-        maxPower: 256,
-        transmissionType: "Automatic",
+        maxPower: 139,
+        transmissionType: "Dual Clutch 6-Speed Automatic with Sportmatic",
         doors: 4,
-        feCity: 12,
-        feHwy: 10,
-        feMixed: 11,
+        feCity: 52,
+        feHwy: 49,
+        feCombined: 50,
         versions: [
           {
             id: 0,
@@ -133,12 +133,12 @@ class Vehicles extends Component {
         gallery:
           "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/new_sportage/2019/Galeria/EXT/Detail_images/desktop/galeia_exterior_kia_sportage_w_6.jpg",
         cylinders: 4,
-        maxPower: 256,
-        transmissionType: "Automatic",
+        maxPower: 181,
+        transmissionType: "Dual Continuously Variable Valve Timing (CVVT)",
         doors: 4,
-        feCity: 12,
-        feHwy: 10,
-        feMixed: 11,
+        feCity: 23,
+        feHwy: 30,
+        feCombined: 26,
         versions: [
           {
             id: 0,
@@ -201,6 +201,79 @@ class Vehicles extends Component {
               "Cross traffic alert",
               "Reverse camera",
               '19" sport wheels'
+            ]
+          }
+        ]
+      },
+      {
+        id: 4,
+        make: "kia",
+        model: "Sorento",
+        year: "2019",
+        price: 26290,
+        category: "suv",
+        front:
+          "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/new-sorento/sorento_2018/kia-sorento-sh-icono.png",
+        gallery:
+          "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/new-sorento/sorento_2018/galeria/ext/big/kia-sorento-sh-galeria-exterior-4-pc.jpg",
+        cylinders: 4,
+        maxPower: 185,
+        transmissionType: "Dual Continuously Variable Valve Timing (CVVT)",
+        doors: 4,
+        feCity: 22,
+        feHwy: 29,
+        feCombined: 25,
+        versions: [
+          {
+            id: 0,
+            version: "lx",
+            img:
+              "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/new-sorento/sorento_2018/Trim_List/KIA-sorento-LXTA.png",
+
+            features: [
+              '7" touch screen',
+              "Android Auto ® and Apple Carplay ® connectivity",
+              "Reverse camera",
+              "heated seats"
+            ]
+          },
+          {
+            id: 1,
+            version: "ex",
+            img:
+              "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/new-sorento/sorento_2018/Trim_List/KIA-sorento-EXTA-2.png",
+
+            features: [
+              "front fog lights",
+              "leather seats",
+              "automatic A/C",
+              "wireless smartphone charger"
+            ]
+          },
+          {
+            id: 2,
+            version: "ex pack",
+            img:
+              "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/new-sorento/sorento_2018/Trim_List/KIA-sorento-EXPACKTA.png",
+
+            features: [
+              '8" touch screen with Android Auto ® and Apple Carplay ®',
+              'supervision cluster with 7" screen',
+              "electrically folding side mirrors",
+              "panoramic ceiling"
+            ]
+          },
+          {
+            id: 3,
+            version: "sxl",
+            img:
+              "https://www.kia.com/content/dam/kwcms/mx/es/images/showroom/new-sorento/sorento_2018/Trim_List/KIA-sorento-SXLAWDTA.png",
+
+            features: [
+              "360º camera",
+              "harman kardon premium audio",
+              "nappa leather seats",
+              "Front parking sensors"
             ]
           }
         ]
